@@ -1,4 +1,3 @@
-# verilogGen
 A verilog HDL code generator.Generate a verilog module in the form below is possible.It can also analyse a single module in a .v file and classify basic element inside the module,such as parameter,input,output,wire,et al.Use pyqt5 UI structure in this project. 
 
         module maincha #(
